@@ -8,7 +8,7 @@ col1, col2, col3 = st.columns(3)
 with col1:
     st.write("Ketua Tim Peneliti")
         #st.write("Ini adalah konten di kolom pertama.")
-    st.image("eko.jpg", width= 150, caption="Pradita Eko Prasetio Utomo, S.Pd., M.Cs")
+    st.image("eko.JPG", width= 150, caption="Pradita Eko Prasetio Utomo, S.Pd., M.Cs")
 
 # Menampilkan konten di kolom kedua
 with col2:
