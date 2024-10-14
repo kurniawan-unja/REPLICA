@@ -2,7 +2,7 @@ pandas
 streamlit
 scikit-learn
 numpy
-plotly
+plotly==5.15.0
 seaborn
 matplotlib
 pydantic
