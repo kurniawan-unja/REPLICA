@@ -1,0 +1,101 @@
+ID Siswa,Nama Siswa,Jenis Kelamin,Umur,Kelas,Nilai Teori,Nilai Praktik,Tugas,Rata-rata Nilai,Status Kelulusan,Perkembangan,Absensi,Catatan Guru
+1,Siswa 1,Laki-laki,16,12,87,92,87,88.67,Lulus,Stagnan,86,Perlu perhatian khusus
+2,Siswa 2,Laki-laki,17,11,87,83,93,87.67,Lulus,Menurun,91,Sangat baik
+3,Siswa 3,Perempuan,16,11,79,70,61,70.0,Gagal,Meningkat,80,Sangat baik
+4,Siswa 4,Laki-laki,16,11,89,67,91,82.33,Lulus,Meningkat,81,Sangat baik
+5,Siswa 5,Laki-laki,16,11,70,95,82,82.33,Lulus,Menurun,88,Sangat baik
+6,Siswa 6,Laki-laki,17,11,87,97,81,88.33,Lulus,Stagnan,87,Sangat baik
+7,Siswa 7,Laki-laki,16,11,84,99,84,89.0,Lulus,Stagnan,82,Sangat baik
+8,Siswa 8,Laki-laki,16,12,98,79,81,86.0,Lulus,Meningkat,84,Sangat baik
+9,Siswa 9,Perempuan,16,12,92,94,81,89.0,Lulus,Menurun,83,Butuh usaha
+10,Siswa 10,Laki-laki,17,11,60,84,65,69.67,Gagal,Stagnan,92,Perlu perhatian khusus
+11,Siswa 11,Laki-laki,16,12,86,94,74,84.67,Lulus,Menurun,76,Sangat baik
+12,Siswa 12,Laki-laki,16,10,72,84,96,84.0,Lulus,Menurun,79,Butuh usaha
+13,Siswa 13,Laki-laki,16,11,62,88,92,80.67,Lulus,Meningkat,79,Butuh usaha
+14,Siswa 14,Laki-laki,16,10,98,77,67,80.67,Lulus,Stagnan,80,Perlu perhatian khusus
+15,Siswa 15,Laki-laki,17,10,65,77,64,68.67,Gagal,Meningkat,93,Sangat baik
+16,Siswa 16,Laki-laki,16,11,67,61,98,75.33,Lulus,Stagnan,82,Perlu perhatian khusus
+17,Siswa 17,Perempuan,17,12,86,94,63,81.0,Lulus,Stagnan,90,Sangat baik
+18,Siswa 18,Laki-laki,17,10,68,75,65,69.33,Gagal,Stagnan,87,Butuh usaha
+19,Siswa 19,Perempuan,17,11,96,95,91,94.0,Lulus,Stagnan,75,Butuh usaha
+20,Siswa 20,Perempuan,16,10,92,92,89,91.0,Lulus,Stagnan,96,Butuh usaha
+21,Siswa 21,Laki-laki,17,10,83,63,94,80.0,Lulus,Menurun,94,Butuh usaha
+22,Siswa 22,Laki-laki,16,10,74,92,99,88.33,Lulus,Meningkat,91,Perlu perhatian khusus
+23,Siswa 23,Perempuan,17,10,91,73,75,79.67,Lulus,Menurun,81,Sangat baik
+24,Siswa 24,Perempuan,17,12,91,80,72,81.0,Lulus,Stagnan,99,Sangat baik
+25,Siswa 25,Perempuan,17,10,83,79,89,83.67,Lulus,Meningkat,87,Perlu perhatian khusus
+26,Siswa 26,Laki-laki,17,10,71,67,78,72.0,Gagal,Stagnan,78,Sangat baik
+27,Siswa 27,Laki-laki,17,10,98,66,76,80.0,Lulus,Meningkat,78,Butuh usaha
+28,Siswa 28,Perempuan,17,12,61,62,78,67.0,Gagal,Menurun,80,Sangat baik
+29,Siswa 29,Laki-laki,17,10,62,76,87,75.0,Lulus,Meningkat,93,Butuh usaha
+30,Siswa 30,Laki-laki,17,10,96,92,85,91.0,Lulus,Meningkat,86,Perlu perhatian khusus
+31,Siswa 31,Perempuan,16,12,76,71,96,81.0,Lulus,Meningkat,96,Sangat baik
+32,Siswa 32,Laki-laki,16,12,61,81,85,75.67,Lulus,Meningkat,81,Perlu perhatian khusus
+33,Siswa 33,Perempuan,17,12,61,81,82,74.67,Gagal,Meningkat,84,Sangat baik
+34,Siswa 34,Perempuan,17,10,87,89,68,81.33,Lulus,Stagnan,93,Butuh usaha
+35,Siswa 35,Perempuan,17,12,82,97,71,83.33,Lulus,Meningkat,81,Perlu perhatian khusus
+36,Siswa 36,Laki-laki,16,12,96,97,60,84.33,Lulus,Meningkat,77,Sangat baik
+37,Siswa 37,Perempuan,17,10,91,67,60,72.67,Gagal,Menurun,87,Butuh usaha
+38,Siswa 38,Laki-laki,16,12,92,86,93,90.33,Lulus,Meningkat,87,Perlu perhatian khusus
+39,Siswa 39,Perempuan,16,10,60,86,91,79.0,Lulus,Menurun,92,Perlu perhatian khusus
+40,Siswa 40,Laki-laki,16,11,78,93,84,85.0,Lulus,Stagnan,94,Sangat baik
+41,Siswa 41,Perempuan,16,12,61,80,99,80.0,Lulus,Meningkat,82,Sangat baik
+42,Siswa 42,Perempuan,16,11,85,89,60,78.0,Lulus,Menurun,83,Sangat baik
+43,Siswa 43,Laki-laki,17,10,91,92,75,86.0,Lulus,Menurun,81,Butuh usaha
+44,Siswa 44,Laki-laki,17,12,65,87,98,83.33,Lulus,Stagnan,75,Sangat baik
+45,Siswa 45,Laki-laki,17,10,91,92,64,82.33,Lulus,Meningkat,77,Perlu perhatian khusus
+46,Siswa 46,Laki-laki,17,11,63,64,81,69.33,Gagal,Meningkat,87,Perlu perhatian khusus
+47,Siswa 47,Perempuan,17,10,70,78,88,78.67,Lulus,Menurun,99,Sangat baik
+48,Siswa 48,Laki-laki,16,12,76,63,62,67.0,Gagal,Meningkat,91,Sangat baik
+49,Siswa 49,Laki-laki,17,12,97,94,71,87.33,Lulus,Menurun,99,Perlu perhatian khusus
+50,Siswa 50,Laki-laki,17,11,83,76,85,81.33,Lulus,Meningkat,98,Butuh usaha
+51,Siswa 51,Perempuan,16,10,64,87,75,75.33,Lulus,Menurun,75,Sangat baik
+52,Siswa 52,Perempuan,17,12,93,89,96,92.67,Lulus,Meningkat,80,Sangat baik
+53,Siswa 53,Perempuan,16,11,65,88,81,78.0,Lulus,Stagnan,95,Perlu perhatian khusus
+54,Siswa 54,Perempuan,17,12,81,65,88,78.0,Lulus,Meningkat,80,Sangat baik
+55,Siswa 55,Laki-laki,16,12,70,94,73,79.0,Lulus,Meningkat,86,Butuh usaha
+56,Siswa 56,Perempuan,17,10,75,96,87,86.0,Lulus,Stagnan,87,Perlu perhatian khusus
+57,Siswa 57,Perempuan,17,12,92,83,64,79.67,Lulus,Meningkat,87,Sangat baik
+58,Siswa 58,Laki-laki,16,10,68,88,89,81.67,Lulus,Stagnan,89,Perlu perhatian khusus
+59,Siswa 59,Perempuan,16,12,65,90,64,73.0,Gagal,Meningkat,95,Sangat baik
+60,Siswa 60,Laki-laki,16,11,75,94,71,80.0,Lulus,Menurun,90,Sangat baik
+61,Siswa 61,Laki-laki,16,12,88,92,75,85.0,Lulus,Menurun,96,Sangat baik
+62,Siswa 62,Laki-laki,16,10,62,80,85,75.67,Lulus,Meningkat,95,Butuh usaha
+63,Siswa 63,Laki-laki,16,10,79,91,85,85.0,Lulus,Meningkat,85,Butuh usaha
+64,Siswa 64,Perempuan,16,11,95,82,80,85.67,Lulus,Meningkat,79,Perlu perhatian khusus
+65,Siswa 65,Perempuan,16,12,78,92,98,89.33,Lulus,Menurun,78,Sangat baik
+66,Siswa 66,Perempuan,17,12,85,62,95,80.67,Lulus,Meningkat,77,Sangat baik
+67,Siswa 67,Laki-laki,17,11,62,77,92,77.0,Lulus,Menurun,93,Butuh usaha
+68,Siswa 68,Perempuan,16,12,78,84,89,83.67,Lulus,Stagnan,94,Sangat baik
+69,Siswa 69,Laki-laki,17,12,79,90,96,88.33,Lulus,Menurun,99,Butuh usaha
+70,Siswa 70,Laki-laki,17,10,91,62,82,78.33,Lulus,Menurun,92,Sangat baik
+71,Siswa 71,Laki-laki,17,12,66,99,69,78.0,Lulus,Stagnan,89,Perlu perhatian khusus
+72,Siswa 72,Perempuan,17,12,92,83,64,79.67,Lulus,Menurun,83,Sangat baik
+73,Siswa 73,Perempuan,16,11,99,91,95,95.0,Lulus,Meningkat,91,Sangat baik
+74,Siswa 74,Perempuan,17,11,98,81,93,90.67,Lulus,Meningkat,88,Butuh usaha
+75,Siswa 75,Laki-laki,16,10,77,82,90,83.0,Lulus,Menurun,89,Sangat baik
+76,Siswa 76,Laki-laki,17,12,99,61,69,76.33,Lulus,Meningkat,75,Sangat baik
+77,Siswa 77,Perempuan,17,12,60,86,78,74.67,Gagal,Menurun,95,Butuh usaha
+78,Siswa 78,Laki-laki,17,12,70,61,91,74.0,Gagal,Meningkat,96,Perlu perhatian khusus
+79,Siswa 79,Perempuan,16,10,87,85,60,77.33,Lulus,Meningkat,96,Perlu perhatian khusus
+80,Siswa 80,Perempuan,17,10,84,76,64,74.67,Gagal,Menurun,77,Butuh usaha
+81,Siswa 81,Perempuan,16,11,82,99,63,81.33,Lulus,Meningkat,90,Butuh usaha
+82,Siswa 82,Laki-laki,17,10,90,92,75,85.67,Lulus,Menurun,97,Butuh usaha
+83,Siswa 83,Perempuan,16,12,89,68,83,80.0,Lulus,Meningkat,99,Butuh usaha
+84,Siswa 84,Laki-laki,17,12,94,98,75,89.0,Lulus,Meningkat,85,Butuh usaha
+85,Siswa 85,Laki-laki,16,10,66,88,61,71.67,Gagal,Stagnan,86,Perlu perhatian khusus
+86,Siswa 86,Perempuan,16,12,75,85,87,82.33,Lulus,Stagnan,84,Perlu perhatian khusus
+87,Siswa 87,Perempuan,17,12,85,94,91,90.0,Lulus,Menurun,90,Butuh usaha
+88,Siswa 88,Perempuan,16,10,61,84,86,77.0,Lulus,Stagnan,82,Sangat baik
+89,Siswa 89,Perempuan,17,10,60,83,79,74.0,Gagal,Menurun,80,Butuh usaha
+90,Siswa 90,Laki-laki,17,12,71,72,83,75.33,Lulus,Stagnan,86,Sangat baik
+91,Siswa 91,Laki-laki,17,12,64,66,71,67.0,Gagal,Meningkat,98,Butuh usaha
+92,Siswa 92,Perempuan,17,12,96,95,94,95.0,Lulus,Menurun,95,Butuh usaha
+93,Siswa 93,Laki-laki,17,11,91,79,92,87.33,Lulus,Menurun,82,Perlu perhatian khusus
+94,Siswa 94,Laki-laki,17,11,68,60,92,73.33,Gagal,Meningkat,78,Sangat baik
+95,Siswa 95,Laki-laki,17,11,94,67,96,85.67,Lulus,Menurun,82,Sangat baik
+96,Siswa 96,Laki-laki,17,10,78,75,71,74.67,Gagal,Menurun,92,Perlu perhatian khusus
+97,Siswa 97,Laki-laki,17,11,75,73,62,70.0,Gagal,Stagnan,79,Perlu perhatian khusus
+98,Siswa 98,Perempuan,17,10,62,71,60,64.33,Gagal,Menurun,83,Perlu perhatian khusus
+99,Siswa 99,Laki-laki,17,10,79,82,92,84.33,Lulus,Meningkat,78,Perlu perhatian khusus
+100,Siswa 100,Perempuan,16,11,83,74,99,85.33,Lulus,Stagnan,96,Sangat baik
