@@ -8,3 +8,4 @@ matplotlib
 pydantic_settings
 pycaret
 ydata-profiling
+python
