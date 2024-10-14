@@ -8,4 +8,4 @@ matplotlib
 pydantic_settings
 pycaret
 ydata-profiling
-python==3.9
+
