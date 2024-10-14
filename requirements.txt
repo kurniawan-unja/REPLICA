@@ -4,4 +4,4 @@ scikit-learn
 numpy
 ploty
 seaborn
-matplotlib==3.6.2
+matplotlib
