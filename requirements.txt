@@ -5,5 +5,5 @@ numpy
 plotly==5.15.0
 seaborn
 matplotlib
-pydantic
+pydantic-settings
 pycaret
