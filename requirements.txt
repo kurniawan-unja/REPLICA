@@ -4,8 +4,8 @@ seaborn
 matplotlib
 pydantic_settings
 ydata-profiling
-streamlit==1.13.0
-pycaret==3.0.0
-pandas==1.5.3
-scikit-learn==1.1.3
-python==3.9
+streamlit
+pycaret
+pandas
+scikit-learn
+
